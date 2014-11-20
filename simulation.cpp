@@ -7,6 +7,7 @@
 #include "SOIL.h"
 #include "rigidbodytemplate.h"
 #include "rigidbodyinstance.h"
+#include "cloth.h"
 #include "vectormath.h"
 #include <Eigen/Dense>
 #include "mesh.h"
@@ -21,6 +22,7 @@ Simulation::Simulation(const SimParameters &params) : params_(params), time_(0),
 {
     loadRigidBodies();
     bodyInstance_ = NULL;
+    cloth_ = NULL;
     clearScene();
 }
 
@@ -116,6 +118,7 @@ void Simulation::renderObjects()
     renderLock_.lock();
     {
         bodyInstance_->render();
+        cloth_->render();
     }
     renderLock_.unlock();
 }
@@ -136,6 +139,7 @@ void Simulation::clearScene()
         Vector3d pos(5, 0, 3);
         Vector3d zero(0,0,0);
         bodyInstance_ = new RigidBodyInstance(*bodyTemplate_, pos, zero, 1.0);
+        cloth_ = new Cloth();
     }
     renderLock_.unlock();
 }

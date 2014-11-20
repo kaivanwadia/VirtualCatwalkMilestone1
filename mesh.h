@@ -34,8 +34,8 @@ private:
     int numfaces_;
     Eigen::VectorXd verts_;
     Eigen::VectorXi faces_;
-    std::vector<Eigen::Vector3d> faceNormals_;
     Eigen::VectorXd vertNormals_;
+    std::vector<Eigen::Vector3d> faceNormals_;
     std::vector<double> faceAreas_;
 };
 
