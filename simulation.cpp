@@ -30,6 +30,7 @@ Simulation::~Simulation()
 {
     delete bodyInstance_;
     delete bodyTemplate_;
+    delete cloth_;
 }
 
 void Simulation::initializeGL()
@@ -129,6 +130,36 @@ void Simulation::takeSimulationStep()
 
     bodyInstance_->c += params_.timeStep*bodyInstance_->cvel;
     bodyInstance_->theta = VectorMath::axisAngle(VectorMath::rotationMatrix(params_.timeStep*bodyInstance_->w)*VectorMath::rotationMatrix(bodyInstance_->theta));
+
+    //Do velocity verlet
+    cloth_->cVertPos = cloth_->cVertPos + params_.timeStep*cloth_->cVertVel;
+    VectorXd forces = computeForces();
+    cloth_->cVertVel = cloth_->cVertVel + params_.timeStep*cloth_->invMassMat*forces;
+    if (params_.pinCorner)
+    {
+        cloth_->cVertVel.segment<3>(0)<<0,0,0;
+    }
+}
+
+VectorXd Simulation::computeForces()
+{
+    VectorXd forces(cloth_->getMesh().getNumVerts()*3);
+    forces.setZero();
+    forces = computeGravity();
+    return forces;
+}
+
+VectorXd Simulation::computeGravity()
+{
+    VectorXd gForce(cloth_->getMesh().getNumVerts()*3);
+    gForce.setZero();
+    Vector3d zUnit(0,0,1);
+    for (int vId = 0; vId < cloth_->getMesh().getNumVerts(); vId++)
+    {
+        double invMass = cloth_->invMassMat.coeff(vId*3, vId*3);
+        gForce.segment<3>(vId*3) = (1.0/invMass)*params_.gravityG*zUnit;
+    }
+    return gForce;
 }
 
 void Simulation::clearScene()
@@ -136,6 +167,7 @@ void Simulation::clearScene()
     renderLock_.lock();
     {
         delete bodyInstance_;
+        delete cloth_;
         Vector3d pos(5, 0, 3);
         Vector3d zero(0,0,0);
         bodyInstance_ = new RigidBodyInstance(*bodyTemplate_, pos, zero, 1.0);

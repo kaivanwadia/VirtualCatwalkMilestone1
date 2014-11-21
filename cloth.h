@@ -17,7 +17,6 @@ public:
     const double *getCurrentVertexPointer() const {return &cVertPos[0];}
     const double *getCurrentVertexNormalsPointer() const {return &cVertNormals[0];}
 
-private:
     Eigen::VectorXd cVertPos;
     Eigen::VectorXd cVertVel;
     Eigen::VectorXd cVertNormals;
@@ -25,6 +24,8 @@ private:
     Eigen::MatrixXd invMassMat;
     std::vector<Eigen::Vector3d> cFaceNormals;
     std::vector<double> cFaceAreas;
+
+private:
 
     Mesh *mesh_;
 };
