@@ -33,6 +33,7 @@ public:
 
     Eigen::VectorXd computeForces();
     Eigen::VectorXd computeGravity();
+    Eigen::VectorXd computeStretchingForce();
 
 private:
     void loadFloorTexture();

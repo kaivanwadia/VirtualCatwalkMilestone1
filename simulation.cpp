@@ -134,6 +134,7 @@ void Simulation::takeSimulationStep()
     //Do velocity verlet
     cloth_->cVertPos = cloth_->cVertPos + params_.timeStep*cloth_->cVertVel;
     VectorXd forces = computeForces();
+    cout<<"Forces:\n"<<forces.segment<3>(0)<<endl;
     cloth_->cVertVel = cloth_->cVertVel + params_.timeStep*cloth_->invMassMat*forces;
     if (params_.pinCorner)
     {
@@ -145,8 +146,79 @@ VectorXd Simulation::computeForces()
 {
     VectorXd forces(cloth_->getMesh().getNumVerts()*3);
     forces.setZero();
-    forces = computeGravity();
+    if (params_.activeForces & SimParameters::F_GRAVITY)
+    {
+        forces = forces + computeGravity();
+    }
+    if (params_.activeForces & SimParameters::F_STRETCHING)
+    {
+        forces = forces + computeStretchingForce();
+    }
     return forces;
+}
+
+VectorXd Simulation::computeStretchingForce()
+{
+    VectorXd stForce(cloth_->getMesh().getNumVerts()*3);
+    stForce.setZero();
+    VectorXd forceLocal(9);
+    forceLocal.setZero();
+    cout<<"\nTIMESTEP ---------------:\n"<<endl;
+    for (int fID = 0; fID < cloth_->getMesh().getNumFaces(); fID++)
+    {
+        Vector3i points = cloth_->getMesh().getFace(fID);
+        Vector3d pi = cloth_->cVertPos.segment<3>(points[0]*3);
+        Vector3d pj = cloth_->cVertPos.segment<3>(points[1]*3);
+        Vector3d pk = cloth_->cVertPos.segment<3>(points[2]*3);
+        Vector3d e1 = pj - pi;
+        Vector3d e2 = pk - pi;
+        Matrix2d g;
+        g.coeffRef(0,0) = e1.dot(e1);
+        g.coeffRef(0,1) = e1.dot(e2);
+        g.coeffRef(1,0) = e1.dot(e2);
+        g.coeffRef(1,1) = e2.dot(e2);
+        Matrix2d deltaG = g - cloth_->getGTildaMatrix(fID);
+        MatrixXd bMatrix(4,6);
+        bMatrix.setZero();
+        bMatrix.block<1,3>(0,0) = 2*e1.transpose();
+        bMatrix.block<1,3>(1,0) = e2.transpose();
+        bMatrix.block<1,3>(1,3) = e1.transpose();
+        bMatrix.block<1,3>(2,0) = e2.transpose();
+        bMatrix.block<1,3>(2,3) = e1.transpose();
+        bMatrix.block<1,3>(3,3) = 2*e2.transpose();
+        MatrixXd dMatrix = cloth_->getDMatrix(fID);
+//        Matrix3d epsilon = (dMatrix.transpose() * deltaG * dMatrix)/2.0;
+        Matrix3d epsilon = (cloth_->getETildaMatrix(fID).transpose()*cloth_->getGTildaMatrix(fID).inverse() * deltaG * cloth_->getGTildaMatrix(fID).inverse()*cloth_->getETildaMatrix(fID))/2.0;
+        VectorXd epsilonV(9);
+        epsilonV.segment<3>(0) = epsilon.block<1,3>(0,0).transpose();
+        epsilonV.segment<3>(3) = epsilon.block<1,3>(1,0).transpose();
+        epsilonV.segment<3>(6) = epsilon.block<1,3>(2,0).transpose();
+        MatrixXd cMatrix = cloth_->getCMatrix(fID);
+        MatrixXd aMatrix = cloth_->getAMatrix(fID);
+        forceLocal = (-2.0)*params_.stretchingK*cloth_->getMesh().getFaceArea(fID)
+                *cMatrix.transpose()*bMatrix.transpose()*aMatrix.transpose()*epsilonV;
+        if (points[0] == 0 || points[1] == 0 || points[2] == 0)
+        {
+            cout<<"pi:\n"<<pi<<endl;
+            cout<<"pj:\n"<<pj<<endl;
+            cout<<"pk:\n"<<pk<<endl;
+            cout<<"e1:\n"<<e1<<endl;
+//            cout<<"e1Tilda:\n"<<cloth_->getETildaMatrix(fID).block<1,3>(0,0).transpose()<<endl;
+            cout<<"e2:\n"<<e2<<endl;
+//            cout<<"e2Tilda:\n"<<cloth_->getETildaMatrix(fID).block<1,3>(1,0).transpose()<<endl;
+            cout<<"g:\n"<<g<<endl;
+//            cout<<"gTilda:\n"<<cloth_->getGTildaMatrix(fID)<<endl;
+            cout<<"dG:\n"<<deltaG<<endl;
+            cout<<"bMatrix:\n"<<bMatrix<<endl;
+            cout<<"epsilon:\n"<<epsilon<<endl;
+            cout<<"fLocal:\n"<<forceLocal<<endl;
+        }
+        stForce.segment<3>(points[0]*3) += forceLocal.segment<3>(0);
+        stForce.segment<3>(points[1]*3) += forceLocal.segment<3>(3);
+        stForce.segment<3>(points[2]*3) += forceLocal.segment<3>(6);
+    }
+    cout<<"Stforce:\n"<<stForce.segment<3>(0)<<endl;
+    return stForce;
 }
 
 VectorXd Simulation::computeGravity()
@@ -157,7 +229,7 @@ VectorXd Simulation::computeGravity()
     for (int vId = 0; vId < cloth_->getMesh().getNumVerts(); vId++)
     {
         double invMass = cloth_->invMassMat.coeff(vId*3, vId*3);
-        gForce.segment<3>(vId*3) = (1.0/invMass)*params_.gravityG*zUnit;
+        gForce.segment<3>(vId*3) += (1.0/invMass)*params_.gravityG*zUnit;
     }
     return gForce;
 }

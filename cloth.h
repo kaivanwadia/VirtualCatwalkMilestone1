@@ -25,8 +25,21 @@ public:
     std::vector<Eigen::Vector3d> cFaceNormals;
     std::vector<double> cFaceAreas;
 
+    Eigen::MatrixXd getETildaMatrix(int faceId) {return faceEs[faceId];}
+    Eigen::Matrix2d getGTildaMatrix(int faceId) {return faceGs[faceId];}
+    Eigen::MatrixXd getCMatrix(int faceId) {return faceCs[faceId];}
+    Eigen::MatrixXd getAMatrix(int faceId) {return faceAs[faceId];}
+    Eigen::MatrixXd getDMatrix(int faceId) {return faceDs[faceId];}
+
 private:
 
+    void computeStretchingData();
+
+    std::vector<Eigen::MatrixXd> faceEs;
+    std::vector<Eigen::Matrix2d> faceGs;
+    std::vector<Eigen::MatrixXd> faceCs;
+    std::vector<Eigen::MatrixXd> faceAs;
+    std::vector<Eigen::MatrixXd> faceDs;
     Mesh *mesh_;
 };
 
