@@ -30,6 +30,7 @@ Cloth::Cloth()
     computeVertexNormals();
     computeInverseMassMatrix();
     computeStretchingData();
+    computeHinges();
 }
 
 void Cloth::computeVertexNormals()
@@ -167,8 +168,71 @@ void Cloth::computeStretchingData()
     }
 }
 
+void Cloth::computeHinges()
+{
+    hinges.clear();
+    for (int f0ID = 0; f0ID < mesh_->getNumFaces(); f0ID++)
+    {
+        Vector3i f0Points = mesh_->getFace(f0ID);
+        for (int f1ID = f0ID+1; f1ID < mesh_->getNumFaces(); f1ID++)
+        {
+            Vector3i f1Points = mesh_->getFace(f1ID);
+            vector<int> commonPoints0;
+            vector<int> commonPoints1;
+            commonPoints0.clear();
+            commonPoints1.clear();
+            int notCommon0;
+            for (int point = 0; point < 3; point++)
+            {
+                if (f0Points[point] == f1Points[0])
+                {
+                    commonPoints0.push_back(point);
+                    commonPoints1.push_back(0);
+                }
+                else if (f0Points[point] == f1Points[1])
+                {
+                    commonPoints0.push_back(point);
+                    commonPoints1.push_back(1);
+                }
+                else if (f0Points[point] == f1Points[2])
+                {
+                    commonPoints0.push_back(point);
+                    commonPoints1.push_back(2);
+                }
+                else
+                {
+                    notCommon0 = point;
+                }
+            }
+            if (commonPoints0.size() == 2)
+            {
+                int pI = f0Points[commonPoints0[0]];
+                int pJ = f0Points[commonPoints0[1]];
+                int f0 = f0ID;
+                int f1 = f1ID;
+                int kLonerF0 = f0Points[notCommon0];
+                int lLonerF1;
+                double length = (mesh_->getVert(pI) - mesh_->getVert(pJ)).norm();
+                double f0rArea = mesh_->getFaceArea(f0);
+                double f1rArea = mesh_->getFaceArea(f1);
+                for (int i = 0; i<3; i++)
+                {
+                    if (f1Points[i] != f0Points[0] && f1Points[i] != f0Points[1] && f1Points[i] != f0Points[2])
+                    {
+                        lLonerF1 = f1Points[i];
+                    }
+                }
+                hinges.push_back(Hinge(pI, pJ, f0, f1, kLonerF0, lLonerF1, length, f0rArea, f1rArea));
+            }
+        }
+    }
+//    cout<<"Hinges:"<<hinges.size()<<endl;
+}
+
+
 void Cloth::render()
 {
+    computeVertexNormals();
     glShadeModel(GL_SMOOTH);
     glDisable(GL_TEXTURE_2D);
     glEnable(GL_LIGHTING);

@@ -4,6 +4,25 @@
 #include<mesh.h>
 #include<Eigen/Core>
 
+struct Hinge
+{
+public:
+    Hinge(int pI, int pJ, int f0, int f1, int kLonerF0, int lLonerF1, double length, double f0rArea, double f1rArea) : pI(pI), pJ(pJ), f0(f0), f1(f1), kLonerF0(kLonerF0), lLonerF1(lLonerF1), rLength(length)
+    {
+        f0rArea = f0rArea;
+        f1rArea = f1rArea;
+    }
+    int pI;
+    int pJ;
+    int f0;
+    int f1;
+    int kLonerF0;
+    int lLonerF1;
+    double rLength;
+    double f0rArea;
+    double f1rArea;
+};
+
 class Cloth
 {
 public:
@@ -11,6 +30,7 @@ public:
     void render();
     void computeVertexNormals();
     void computeInverseMassMatrix();
+    void computeHinges();
 
     const Mesh &getMesh() const {return *mesh_;}
     const int *getCurrentFacePointer() const {return getMesh().getFacePointer();}
@@ -24,6 +44,7 @@ public:
     Eigen::MatrixXd invMassMat;
     std::vector<Eigen::Vector3d> cFaceNormals;
     std::vector<double> cFaceAreas;
+    std::vector<Hinge> hinges;
 
     Eigen::MatrixXd getETildaMatrix(int faceId) {return faceEs[faceId];}
     Eigen::Matrix2d getGTildaMatrix(int faceId) {return faceGs[faceId];}
