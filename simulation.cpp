@@ -164,6 +164,7 @@ VectorXd Simulation::computeForces()
     {
         forces = forces + computeContactForce();
     }
+//    cout<<"Forces: \n"<<forces.segment<9>(78*3)<<endl;
     if (params_.activeForces & SimParameters::F_BENDING)
     {
         forces = forces + computeBendingForce();
@@ -173,16 +174,10 @@ VectorXd Simulation::computeForces()
 
 VectorXd Simulation::computeBendingForce()
 {
-//    if (!debug)
-//    {
-//        cout<<"Bending Debug"<<endl;
-//        string filename = "outputDebug.txt";
-//        ofstream outputFile(filename.c_str() , ofstream::out);
-//        Hinge hinge = cloth_->hinges[0];
-//        outputFile<<"CVertPos Bend:\n"<<cloth_->cVertPos.segment<3>(hinge.pI*3)<<endl;
-//        debug = true;
-//        outputFile.close();
-//    }
+//    string filename = "outputDebug.txt";
+//    ofstream outputFile(filename.c_str() , ofstream::out | ofstream::app);
+//    outputFile<<"\n\nTime:"<<debug<<endl;
+
     VectorXd bForce(cloth_->getMesh().getNumVerts()*3);
     bForce.setZero();
     double constant = 0;
@@ -201,22 +196,13 @@ VectorXd Simulation::computeBendingForce()
         {
             continue;
         }
+        double tConstant = constant;
         constant = constant * theta;
         Vector3d cLeft = (normal0.cross(normal1)/(normal0.cross(normal1)).norm());
         Vector3d cN0Right = normal0/normal0.squaredNorm();
         Vector3d cN1Right = normal1/normal1.squaredNorm();
         Vector3d coefficientN0 = (cLeft).cross(cN0Right);
         Vector3d coefficientN1 = (cLeft).cross(cN1Right);
-//        outputFile<<"PI : "<<hinge.pI<<endl;
-//        outputFile<<pointI<<endl;
-//        outputFile<<"PJ : "<<hinge.pJ<<endl;
-//        outputFile<<pointJ<<endl;
-//        outputFile<<"PK : "<<hinge.kLonerF0<<endl;
-//        outputFile<<pointK<<endl;
-//        outputFile<<"PL : "<<hinge.lLonerF1<<endl;
-//        outputFile<<pointL<<endl;
-//        outputFile<<"N0 : \n"<<normal0<<endl;
-//        outputFile<<"N1 : \n"<<normal1<<endl;
         Matrix3d DpiN0 = -VectorMath::crossProductMatrix(pointJ - pointI) + VectorMath::crossProductMatrix(pointK - pointI);
         Matrix3d DpjN0 = -VectorMath::crossProductMatrix(pointK - pointI);
         Matrix3d DpkN0 = VectorMath::crossProductMatrix(pointJ - pointI);
@@ -232,60 +218,50 @@ VectorXd Simulation::computeBendingForce()
         DqTheta.segment<3>(3) = (coefficientN1.transpose() * DpjN1 - coefficientN0.transpose() * DpjN0).transpose();
         DqTheta.segment<3>(6) = (-coefficientN0.transpose() * DpkN0).transpose();
         DqTheta.segment<3>(9) = (coefficientN1.transpose() * DplN1).transpose();
-//        Vector3d DpiTheta = (coefficientN1.transpose() * DpiN1 - coefficientN0.transpose() * DpiN0).transpose();
-//        Vector3d DpjTheta = (coefficientN1.transpose() * DpjN1 - coefficientN0.transpose() * DpjN0).transpose();
-//        Vector3d DpkTheta = (-coefficientN0.transpose() * DpkN0).transpose();
-//        Vector3d DplTheta = (coefficientN1.transpose() * DplN1).transpose();
         bForce.segment<3>(hinge.pI*3) += -constant * DqTheta.segment<3>(0);
         bForce.segment<3>(hinge.pJ*3) += -constant * DqTheta.segment<3>(3);
         bForce.segment<3>(hinge.kLonerF0*3) += -constant * DqTheta.segment<3>(6);
         bForce.segment<3>(hinge.lLonerF1*3) += -constant * DqTheta.segment<3>(9);
 
-        if (debug>-1 && false)
-        {
-            cout<<"Bending Debug"<<endl;
-            string filename = "outputDebug.txt";
-            ofstream outputFile(filename.c_str() , ofstream::out);
-            Hinge hinge = cloth_->hinges[0];
-            outputFile<<"Time:"<<time_<<endl;
-            outputFile<<"PI : "<<hinge.pI<<endl;
-            outputFile<<pointI<<endl;
-            outputFile<<"PJ : "<<hinge.pJ<<endl;
-            outputFile<<pointJ<<endl;
-            outputFile<<"PK : "<<hinge.kLonerF0<<endl;
-            outputFile<<pointK<<endl;
-            outputFile<<"PL : "<<hinge.lLonerF1<<endl;
-            outputFile<<pointL<<endl;
-            outputFile<<"N0 : \n"<<normal0<<endl;
-            outputFile<<"N1 : \n"<<normal1<<endl;
-            outputFile<<"Theta: \n"<<theta<<endl;
-            outputFile<<"Constant : \n"<<constant<<endl;
-            outputFile<<"n0 x n1:\n"<<normal0.cross(normal1)<<endl;
-            outputFile<<"||n0 x n1||:\n"<<(normal0.cross(normal1)).norm()<<endl;
-            outputFile<<"Left : \n"<<cLeft<<endl;
-            outputFile<<"cN0Right : \n"<<cN0Right<<endl;
-            outputFile<<"cN1Right : \n"<<cN1Right<<endl;
-            outputFile<<"CN0 : \n"<<coefficientN0<<endl;
-            outputFile<<"CN1 : \n"<<coefficientN1<<endl;
-            outputFile<<"DpiN0 : \n"<<DpiN0<<endl;
-            outputFile<<"DpjN0 : \n"<<DpjN0<<endl;
-            outputFile<<"DpkN0 : \n"<<DpkN0<<endl;
-            outputFile<<"DpiN1 : \n"<<DpiN1<<endl;
-            outputFile<<"DpjN1 : \n"<<DpjN1<<endl;
-            outputFile<<"DplN1 : \n"<<DplN1<<endl;
-            outputFile<<"DqTheta:\n"<<DqTheta<<endl;
-//            outputFile<<"CVertPos Bend:\n"<<cloth_->cVertPos<<endl;
-            debug++;
-            outputFile.close();
-        }
+//        if (debug>-1 && false)
+//        {
+//            outputFile<<"HID : "<<hID<<endl;
+//            outputFile<<"PI : "<<hinge.pI<<endl;
+//            outputFile<<pointI<<endl;
+//            outputFile<<"PJ : "<<hinge.pJ<<endl;
+//            outputFile<<pointJ<<endl;
+//            outputFile<<"PK : "<<hinge.kLonerF0<<endl;
+//            outputFile<<pointK<<endl;
+//            outputFile<<"PL : "<<hinge.lLonerF1<<endl;
+//            outputFile<<pointL<<endl;
+//            outputFile<<"N0 : \n"<<normal0<<endl;
+//            outputFile<<"N1 : \n"<<normal1<<endl;
+//            outputFile<<"Theta: \n"<<theta<<endl;
+//            outputFile<<"Constant : \n"<<tConstant<<endl;
+//            outputFile<<"n0 x n1:\n"<<normal0.cross(normal1)<<endl;
+//            outputFile<<"||n0 x n1||:\n"<<(normal0.cross(normal1)).norm()<<endl;
+//            outputFile<<"Left : \n"<<cLeft<<endl;
+//            outputFile<<"cN0Right : \n"<<cN0Right<<endl;
+//            outputFile<<"cN1Right : \n"<<cN1Right<<endl;
+//            outputFile<<"CN0 : \n"<<coefficientN0<<endl;
+//            outputFile<<"CN1 : \n"<<coefficientN1<<endl;
+//            outputFile<<"DpiN0 : \n"<<DpiN0<<endl;
+//            outputFile<<"DpjN0 : \n"<<DpjN0<<endl;
+//            outputFile<<"DpkN0 : \n"<<DpkN0<<endl;
+//            outputFile<<"DpiN1 : \n"<<DpiN1<<endl;
+//            outputFile<<"DpjN1 : \n"<<DpjN1<<endl;
+//            outputFile<<"DplN1 : \n"<<DplN1<<endl;
+//            outputFile<<"DqTheta:\n"<<DqTheta<<endl;
+//            outputFile<<"Force : \n"<< -constant * DqTheta<<endl;
+//            outputFile.close();
+//        }
     }
-//    outputFile.close();
-//    cout<<"bForce : \n"<<bForce<<endl;
     return bForce;
 }
 
 VectorXd Simulation::computeContactForce()
 {
+    // TODO : Relative velocity
     VectorXd cForce(cloth_->getMesh().getNumVerts()*3);
     cForce.setZero();
     Matrix3d rigidBodyRotMatrix = VectorMath::rotationMatrix(bodyInstance_->theta);
@@ -326,7 +302,6 @@ VectorXd Simulation::computeStretchingForce()
     stForce.setZero();
     VectorXd forceLocal(9);
     forceLocal.setZero();
-//    cout<<"\nTIMESTEP ---------------:\n"<<endl;
     for (int fID = 0; fID < cloth_->getMesh().getNumFaces(); fID++)
     {
         Vector3i points = cloth_->getMesh().getFace(fID);
@@ -351,7 +326,6 @@ VectorXd Simulation::computeStretchingForce()
         bMatrix.block<1,3>(3,3) = 2*e2.transpose();
         MatrixXd dMatrix = cloth_->getDMatrix(fID);
         Matrix3d epsilon = (dMatrix.transpose() * deltaG * dMatrix)/2.0;
-//        Matrix3d epsilon = (cloth_->getETildaMatrix(fID).transpose()*cloth_->getGTildaMatrix(fID).inverse() * deltaG * cloth_->getGTildaMatrix(fID).inverse()*cloth_->getETildaMatrix(fID))/2.0;
         VectorXd epsilonV(9);
         epsilonV.segment<3>(0) = epsilon.block<1,3>(0,0).transpose();
         epsilonV.segment<3>(3) = epsilon.block<1,3>(1,0).transpose();
@@ -360,27 +334,10 @@ VectorXd Simulation::computeStretchingForce()
         MatrixXd aMatrix = cloth_->getAMatrix(fID);
         forceLocal = (-2.0)*params_.stretchingK*cloth_->getMesh().getFaceArea(fID)
                 *cMatrix.transpose()*bMatrix.transpose()*aMatrix.transpose()*epsilonV;
-        if (points[0] == 0 || points[1] == 0 || points[2] == 0)
-        {
-//            cout<<"pi:\n"<<pi<<endl;
-//            cout<<"pj:\n"<<pj<<endl;
-//            cout<<"pk:\n"<<pk<<endl;
-//            cout<<"e1:\n"<<e1<<endl;
-//            cout<<"e1Tilda:\n"<<cloth_->getETildaMatrix(fID).block<1,3>(0,0).transpose()<<endl;
-//            cout<<"e2:\n"<<e2<<endl;
-//            cout<<"e2Tilda:\n"<<cloth_->getETildaMatrix(fID).block<1,3>(1,0).transpose()<<endl;
-//            cout<<"g:\n"<<g<<endl;
-//            cout<<"gTilda:\n"<<cloth_->getGTildaMatrix(fID)<<endl;
-//            cout<<"dG:\n"<<deltaG<<endl;
-//            cout<<"bMatrix:\n"<<bMatrix<<endl;
-//            cout<<"epsilon:\n"<<epsilon<<endl;
-//            cout<<"fLocal:\n"<<forceLocal<<endl;
-        }
         stForce.segment<3>(points[0]*3) += forceLocal.segment<3>(0);
         stForce.segment<3>(points[1]*3) += forceLocal.segment<3>(3);
         stForce.segment<3>(points[2]*3) += forceLocal.segment<3>(6);
     }
-//    cout<<"Stforce:\n"<<stForce.segment<3>(0)<<endl;
     return stForce;
 }
 

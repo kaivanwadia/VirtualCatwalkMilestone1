@@ -1,0 +1,8274 @@
+
+
+Time:0
+
+
+Time:1
+
+
+Time:2
+
+
+Time:3
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:4
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:5
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:6
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:7
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:8
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:9
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:10
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:11
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:12
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:13
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:14
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:15
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:16
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:17
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:18
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:19
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:20
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:21
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:22
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:23
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:24
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:25
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:26
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:27
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:28
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:29
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:30
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:31
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:32
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:33
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:34
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:35
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:36
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:37
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:38
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:39
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:40
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:41
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:42
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:43
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:44
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:45
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:46
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:47
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:48
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:49
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:50
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:51
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:52
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:53
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:54
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:55
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:56
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:57
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:58
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:59
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:60
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:61
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:62
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:63
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:64
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:65
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:66
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:67
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:68
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:69
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:70
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:71
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:72
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:73
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:74
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:75
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:76
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:77
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:78
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:79
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:80
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:81
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:82
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:83
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:84
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:85
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:86
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:87
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:88
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan
+
+
+Time:89
+HID : 0
+PI : 30
+nan
+nan
+nan
+PJ : 34
+nan
+nan
+nan
+PK : 32
+nan
+nan
+nan
+PL : 19
+nan
+nan
+nan
+N0 : 
+nan
+nan
+nan
+N1 : 
+nan
+nan
+nan
+Theta: 
+nan
+Constant : 
+nan
+n0 x n1:
+nan
+nan
+nan
+||n0 x n1||:
+nan
+Left : 
+nan
+nan
+nan
+cN0Right : 
+nan
+nan
+nan
+cN1Right : 
+nan
+nan
+nan
+CN0 : 
+nan
+nan
+nan
+CN1 : 
+nan
+nan
+nan
+DpiN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN0 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DpkN0 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpiN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DpjN1 : 
+   0 -nan  nan
+ nan    0 -nan
+-nan  nan    0
+DplN1 : 
+  -0  nan -nan
+-nan   -0  nan
+ nan -nan   -0
+DqTheta:
+ nan
+-nan
+ nan
+ nan
+-nan
+ nan
+-nan
+-nan
+-nan
+ nan
+ nan
+ nan

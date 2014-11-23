@@ -212,7 +212,7 @@ void Cloth::computeHinges()
                 int f1 = f1ID;
                 int kLonerF0 = f0Points[notCommon0];
                 int lLonerF1;
-                double length = (mesh_->getVert(pI) - mesh_->getVert(pJ)).norm();
+                double length = (mesh_->getVert(pJ) - mesh_->getVert(pI)).norm();
                 double f0rArea = mesh_->getFaceArea(f0);
                 double f1rArea = mesh_->getFaceArea(f1);
                 for (int i = 0; i<3; i++)
@@ -226,20 +226,24 @@ void Cloth::computeHinges()
             }
         }
     }
-    for (int hID = 0; hID < hinges.size(); hID++)
-    {
-        Hinge hinge = hinges[hID];
-        cout<<"HID : "<<hID<<endl;
-        cout<<"Pi : "<<hinge.pI<<endl;
-        cout<<"Pj : "<<hinge.pJ<<endl;
-        cout<<"Pk : "<<hinge.kLonerF0<<endl;
-        cout<<"Pl : "<<hinge.lLonerF1<<endl;
-        cout<<"F0 Area : "<<hinge.f0rArea<<endl;
-        cout<<"F1 Area : "<<hinge.f1rArea<<endl;
-        cout<<"Rest l : "<<hinge.rLength<<endl;
-        cout<<"F0 : "<<hinge.f0<<endl;
-        cout<<"F1 : "<<hinge.f1<<endl;
-    }
+//    for (int fID = 0; fID < mesh_->getNumFaces(); fID++)
+//    {
+//        cout<<"A "<<fID<<" :"<<mesh_->getFaceArea(fID)<<endl;
+//    }
+//    for (int hID = 0; hID < hinges.size(); hID++)
+//    {
+//        Hinge hinge = hinges[hID];
+//        cout<<"HID : "<<hID<<endl;
+//        cout<<"Pi : "<<hinge.pI<<endl;
+//        cout<<"Pj : "<<hinge.pJ<<endl;
+//        cout<<"Pk : "<<hinge.kLonerF0<<endl;
+//        cout<<"Pl : "<<hinge.lLonerF1<<endl;
+//        cout<<"F0 : "<<hinge.f0<<endl;
+//        cout<<"F1 : "<<hinge.f1<<endl;
+//        cout<<"F0 Area : "<<hinge.f0rArea<<endl;
+//        cout<<"F1 Area : "<<hinge.f1rArea<<endl;
+//        cout<<"Rest l : "<<hinge.rLength<<endl;
+//    }
 //    cout<<"Hinges:"<<hinges.size()<<endl;
 }
 
