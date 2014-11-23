@@ -226,6 +226,20 @@ void Cloth::computeHinges()
             }
         }
     }
+    for (int hID = 0; hID < hinges.size(); hID++)
+    {
+        Hinge hinge = hinges[hID];
+        cout<<"HID : "<<hID<<endl;
+        cout<<"Pi : "<<hinge.pI<<endl;
+        cout<<"Pj : "<<hinge.pJ<<endl;
+        cout<<"Pk : "<<hinge.kLonerF0<<endl;
+        cout<<"Pl : "<<hinge.lLonerF1<<endl;
+        cout<<"F0 Area : "<<hinge.f0rArea<<endl;
+        cout<<"F1 Area : "<<hinge.f1rArea<<endl;
+        cout<<"Rest l : "<<hinge.rLength<<endl;
+        cout<<"F0 : "<<hinge.f0<<endl;
+        cout<<"F1 : "<<hinge.f1<<endl;
+    }
 //    cout<<"Hinges:"<<hinges.size()<<endl;
 }
 
