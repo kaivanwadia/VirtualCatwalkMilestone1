@@ -278,6 +278,11 @@ VectorXd Simulation::computeContactForce()
             continue;
         }
         double epsilon = params_.cor;
+        Vector3d relVel =  (cloth_->cVertVel.segment<3>(pID*3)
+                            -(bodyInstance_->cvel+ bodyInstance_->w.cross(cloth_->cVertPos.segment<3>(pID*3) - bodyInstance_->c)));
+        if(relVel.dot(gradDwrtQ)<0){
+            epsilon =1;
+        }
         Vector3d gradDwrtC1 = rigidBodyRotMatrix*gradDwrtQ;
         cForce.segment<3>(pID*3) += epsilon*dist*(-gradDwrtC1)*params_.penaltyStiffness;
     }
