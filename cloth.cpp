@@ -41,7 +41,7 @@ Cloth::Cloth()
     computeStretchingData();
     computeHinges();
     clothTex =0;
-    loadTexture();
+//    loadTexture();
 }
 
 void Cloth::computeVertexNormals()
@@ -237,25 +237,6 @@ void Cloth::computeHinges()
             }
         }
     }
-//    for (int fID = 0; fID < mesh_->getNumFaces(); fID++)
-//    {
-//        cout<<"A "<<fID<<" :"<<mesh_->getFaceArea(fID)<<endl;
-//    }
-//    for (int hID = 0; hID < hinges.size(); hID++)
-//    {
-//        Hinge hinge = hinges[hID];
-//        cout<<"HID : "<<hID<<endl;
-//        cout<<"Pi : "<<hinge.pI<<endl;
-//        cout<<"Pj : "<<hinge.pJ<<endl;
-//        cout<<"Pk : "<<hinge.kLonerF0<<endl;
-//        cout<<"Pl : "<<hinge.lLonerF1<<endl;
-//        cout<<"F0 : "<<hinge.f0<<endl;
-//        cout<<"F1 : "<<hinge.f1<<endl;
-//        cout<<"F0 Area : "<<hinge.f0rArea<<endl;
-//        cout<<"F1 Area : "<<hinge.f1rArea<<endl;
-//        cout<<"Rest l : "<<hinge.rLength<<endl;
-//    }
-//    cout<<"Hinges:"<<hinges.size()<<endl;
 }
 
 void Cloth::loadTexture()
@@ -274,8 +255,6 @@ void Cloth::loadTexture()
 
 void Cloth::render()
 {
-
-
     Vector3d color(0, 0, 0.7);
     glColor4d(color[0], color[1], color[2], 1.0);
 
@@ -290,7 +269,8 @@ void Cloth::render()
         glBindTexture(GL_TEXTURE_2D, clothTex);
         glEnable(GL_TEXTURE_2D);
     }
-    else{
+    else
+    {
         glDisable(GL_TEXTURE_2D);
     }
 

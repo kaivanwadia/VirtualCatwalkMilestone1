@@ -50,7 +50,6 @@ private:
 
     RigidBodyTemplate * bodyTemplate_;
     RigidBodyInstance * bodyInstance_;
-    int debug;
 
     Cloth * cloth_;
 };

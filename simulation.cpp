@@ -25,7 +25,6 @@ Simulation::Simulation(const SimParameters &params) : params_(params), time_(0),
     bodyInstance_ = NULL;
     cloth_ = NULL;
     clearScene();
-    debug = 0;
 }
 
 Simulation::~Simulation()
@@ -163,7 +162,6 @@ VectorXd Simulation::computeForces()
     {
         forces = forces + computeContactForce();
     }
-//    cout<<"Forces: \n"<<forces.segment<9>(78*3)<<endl;
     if (params_.activeForces & SimParameters::F_BENDING)
     {
         forces = forces + computeBendingForce();
@@ -173,10 +171,6 @@ VectorXd Simulation::computeForces()
 
 VectorXd Simulation::computeBendingForce()
 {
-//    string filename = "outputDebug.txt";
-//    ofstream outputFile(filename.c_str() , ofstream::out | ofstream::app);
-//    outputFile<<"\n\nTime:"<<debug<<endl;
-
     VectorXd bForce(cloth_->getMesh().getNumVerts()*3);
     bForce.setZero();
     double constant = 0;
@@ -221,46 +215,12 @@ VectorXd Simulation::computeBendingForce()
         bForce.segment<3>(hinge.pJ*3) += -constant * DqTheta.segment<3>(3);
         bForce.segment<3>(hinge.kLonerF0*3) += -constant * DqTheta.segment<3>(6);
         bForce.segment<3>(hinge.lLonerF1*3) += -constant * DqTheta.segment<3>(9);
-
-//        if (debug>-1 && false)
-//        {
-//            outputFile<<"HID : "<<hID<<endl;
-//            outputFile<<"PI : "<<hinge.pI<<endl;
-//            outputFile<<pointI<<endl;
-//            outputFile<<"PJ : "<<hinge.pJ<<endl;
-//            outputFile<<pointJ<<endl;
-//            outputFile<<"PK : "<<hinge.kLonerF0<<endl;
-//            outputFile<<pointK<<endl;
-//            outputFile<<"PL : "<<hinge.lLonerF1<<endl;
-//            outputFile<<pointL<<endl;
-//            outputFile<<"N0 : \n"<<normal0<<endl;
-//            outputFile<<"N1 : \n"<<normal1<<endl;
-//            outputFile<<"Theta: \n"<<theta<<endl;
-//            outputFile<<"Constant : \n"<<tConstant<<endl;
-//            outputFile<<"n0 x n1:\n"<<normal0.cross(normal1)<<endl;
-//            outputFile<<"||n0 x n1||:\n"<<(normal0.cross(normal1)).norm()<<endl;
-//            outputFile<<"Left : \n"<<cLeft<<endl;
-//            outputFile<<"cN0Right : \n"<<cN0Right<<endl;
-//            outputFile<<"cN1Right : \n"<<cN1Right<<endl;
-//            outputFile<<"CN0 : \n"<<coefficientN0<<endl;
-//            outputFile<<"CN1 : \n"<<coefficientN1<<endl;
-//            outputFile<<"DpiN0 : \n"<<DpiN0<<endl;
-//            outputFile<<"DpjN0 : \n"<<DpjN0<<endl;
-//            outputFile<<"DpkN0 : \n"<<DpkN0<<endl;
-//            outputFile<<"DpiN1 : \n"<<DpiN1<<endl;
-//            outputFile<<"DpjN1 : \n"<<DpjN1<<endl;
-//            outputFile<<"DplN1 : \n"<<DplN1<<endl;
-//            outputFile<<"DqTheta:\n"<<DqTheta<<endl;
-//            outputFile<<"Force : \n"<< -constant * DqTheta<<endl;
-//            outputFile.close();
-//        }
     }
     return bForce;
 }
 
 VectorXd Simulation::computeContactForce()
 {
-    // TODO : Relative velocity
     VectorXd cForce(cloth_->getMesh().getNumVerts()*3);
     cForce.setZero();
     Matrix3d rigidBodyRotMatrix = VectorMath::rotationMatrix(bodyInstance_->theta);
