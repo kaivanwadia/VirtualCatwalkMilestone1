@@ -1,8 +1,16 @@
 #ifndef CLOTH_H
 #define CLOTH_H
-
+#include <QGLWidget>
 #include<mesh.h>
 #include<Eigen/Core>
+#include <QMutex>
+#include <Eigen/Sparse>
+#include <vector>
+#include <set>
+#include <QMutex>
+
+
+
 
 struct Hinge
 {
@@ -29,6 +37,7 @@ public:
     void computeVertexNormals();
     void computeInverseMassMatrix();
     void computeHinges();
+    void loadTexture();
 
     const Mesh &getMesh() const {return *mesh_;}
     const int *getCurrentFacePointer() const {return getMesh().getFacePointer();}
@@ -53,7 +62,7 @@ public:
 private:
 
     void computeStretchingData();
-
+    GLuint clothTex;
     std::vector<Eigen::MatrixXd> faceEs;
     std::vector<Eigen::Matrix2d> faceGs;
     std::vector<Eigen::MatrixXd> faceCs;

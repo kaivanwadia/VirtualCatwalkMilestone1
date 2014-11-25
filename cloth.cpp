@@ -5,6 +5,15 @@
 #include "iostream"
 #include "vectormath.h"
 #include "simulation.h"
+#include "SOIL.h"
+#include <QDebug>
+
+#include <iostream>
+#include "rigidbodytemplate.h"
+#include "rigidbodyinstance.h"
+#include "mesh.h"
+#include "signeddistancefield.h"
+#include <fstream>
 
 using namespace std;
 using namespace Eigen;
@@ -31,6 +40,8 @@ Cloth::Cloth()
     computeInverseMassMatrix();
     computeStretchingData();
     computeHinges();
+    clothTex =0;
+    loadTexture();
 }
 
 void Cloth::computeVertexNormals()
@@ -247,17 +258,41 @@ void Cloth::computeHinges()
 //    cout<<"Hinges:"<<hinges.size()<<endl;
 }
 
+void Cloth::loadTexture()
+{
+    //clothTex = SOIL_load_OGL_texture("resources/mb2.jpg", SOIL_LOAD_AUTO, SOIL_CREATE_NEW_ID, SOIL_FLAG_INVERT_Y |  SOIL_FLAG_NTSC_SAFE_RGB | SOIL_FLAG_COMPRESS_TO_DXT | SOIL_FLAG_MIPMAPS);
+    //cout <<"HERE"<<endl;
+    if(clothTex !=0)
+    {
+        glBindTexture(GL_TEXTURE_2D, clothTex);
+        glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_S, GL_REPEAT);
+        glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_T, GL_REPEAT);
+        glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MAG_FILTER, GL_LINEAR);
+        glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MIN_FILTER, GL_LINEAR_MIPMAP_LINEAR);
+    }
+}
 
 void Cloth::render()
 {
+
+
+    Vector3d color(0, 0, 0.7);
+    glColor4d(color[0], color[1], color[2], 1.0);
+
     computeVertexNormals();
     glShadeModel(GL_SMOOTH);
     glDisable(GL_TEXTURE_2D);
     glEnable(GL_LIGHTING);
     glColorMaterial ( GL_FRONT_AND_BACK, GL_AMBIENT_AND_DIFFUSE );
     glEnable ( GL_COLOR_MATERIAL );
-    Vector3d color(0.7, 0, 0.7);
-    glColor4d(color[0], color[1], color[2], 1.0);
+    if(clothTex)
+    {
+        glBindTexture(GL_TEXTURE_2D, clothTex);
+        glEnable(GL_TEXTURE_2D);
+    }
+    else{
+        glDisable(GL_TEXTURE_2D);
+    }
 
     glPushMatrix();
     {

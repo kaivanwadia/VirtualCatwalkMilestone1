@@ -1,0 +1,16 @@
+VirtualCatwalkMilestone1
+by Kaivan and Vismay
+=======================
+
+Compile the code:
+-Open up catwalk.pro in QT and press Build.
+
+Special Instruction: 
+-The cloth breaks on collision with the 2x4 if you use the default settings. 
+-To get collision working, divide the default Stretching K by 10.
+
+
+
+
+
+
