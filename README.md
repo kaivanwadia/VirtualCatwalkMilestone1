@@ -1,6 +1,9 @@
 VirtualCatwalkMilestone1
-by Kaivan and Vismay
-=======================
+=================================
+Kaivan and Vismay
+--------------------------------
+
+Designed and implemented a system to simulate the behaiour of cloth in contact with a rigid body. The cloth was simulated as a triangular mesh with each triangular face of the mesh being controlled by a stretching and bending force.
 
 Compile the code:
 -Open up catwalk.pro in QT and press Build.
